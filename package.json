@@ -1,0 +1,19 @@
+{
+  "name": "bdd-test-framework",
+  "version": "1.0.0",
+  "description": "Test framework bdd style",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "keywords": [
+    "bdd",
+    "test",
+    "cucumber"
+  ],
+  "author": "Fazreil Amreen",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "6.0.5"
+  }
+}
